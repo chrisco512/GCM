@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CORDLE-PC</Machine>
+    <WindowsUser>Chris</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>BF22CA027BCD9FF31E4BF0515B99E7807F9FFDA6153C64023AC575A9E6B58E7D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>22131461-d483-4d55-bb75-effd262cf2d1_1.0.0.0_neutral__h37gyvpph0nvj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>22131461-d483-4d55-bb75-effd262cf2d1_h37gyvpph0nvj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>22131461-d483-4d55-bb75-effd262cf2d1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Chris</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-13T08:04:30.417</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-01-13T08:03:42.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\pages\items\items.css">
+      <PackagePath>pages\items\items.css</PackagePath>
+      <Modified>2013-01-13T08:03:42.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\pages\split\split.css">
+      <PackagePath>pages\split\split.css</PackagePath>
+      <Modified>2013-01-13T08:03:42.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T23:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T23:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T23:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T23:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-10-01T04:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-01-13T08:03:42.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-01-13T08:03:42.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\pages\items\items.js">
+      <PackagePath>pages\items\items.js</PackagePath>
+      <Modified>2013-01-13T08:03:42.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\pages\split\split.js">
+      <PackagePath>pages\split\split.js</PackagePath>
+      <Modified>2013-01-13T08:03:42.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\pages\items\items.html">
+      <PackagePath>pages\items\items.html</PackagePath>
+      <Modified>2013-01-13T08:03:42.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\pages\split\split.html">
+      <PackagePath>pages\split\split.html</PackagePath>
+      <Modified>2013-01-13T08:03:42.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-01-13T08:03:42.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-13T08:04:30.335</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
