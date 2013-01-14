@@ -7,6 +7,9 @@ images\storelogo.png
 js\data.js
 js\default.js
 js\navigator.js
+lib\easeljs\easeljs-0.5.0.min.js
+lib\jquery\jquery-1.8.3.min.js
+lib\tweenjs\tweenjs-0.3.0.min.js
 pages\items\items.css
 pages\items\items.html
 pages\items\items.js

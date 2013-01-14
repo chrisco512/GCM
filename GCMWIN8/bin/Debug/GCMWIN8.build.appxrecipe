@@ -47,6 +47,15 @@
     <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\lib\easeljs\easeljs-0.5.0.min.js">
+      <PackagePath>lib\easeljs\easeljs-0.5.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\lib\jquery\jquery-1.8.3.min.js">
+      <PackagePath>lib\jquery\jquery-1.8.3.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\lib\tweenjs\tweenjs-0.3.0.min.js">
+      <PackagePath>lib\tweenjs\tweenjs-0.3.0.min.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chris\Documents\GitHub\GCM\GCMWIN8\pages\items\items.js">
       <PackagePath>pages\items\items.js</PackagePath>
     </AppxPackagedFile>

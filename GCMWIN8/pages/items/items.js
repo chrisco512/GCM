@@ -27,7 +27,7 @@
                     var handler = function (e) {
                         listView.removeEventListener("contentanimating", handler, false);
                         e.preventDefault();
-                    }
+                    };
                     listView.addEventListener("contentanimating", handler, false);
                     var firstVisible = listView.indexOfFirstVisible;
                     this._initializeLayout(listView, viewState);
@@ -51,6 +51,8 @@
 
         _itemInvoked: function (args) {
             var groupKey = Data.groups.getAt(args.detail.itemIndex).key;
+
+            //get item data for groupkey, store it in the data object
             WinJS.Navigation.navigate("/pages/split/split.html", { groupKey: groupKey });
         }
     });
